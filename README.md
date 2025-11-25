@@ -25,7 +25,7 @@ I'm Muaaz Ahmed, a curious mind exploring the world of cybersecurity and offensi
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muaaz.ahmed23105)
 
 ### 🏴‍☠️ HTB and THM Profiles
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/noobtries.png)](https://tryhackme.com/p/noobtries)
-[![HTB](https://www.hackthebox.eu/badge/image/Muaaz23)](https://app.hackthebox.com/profile/Muaaz23)
+- **TryHackMe:** [noobtries](https://tryhackme.com/p/noobtries)
+- **HackTheBox:** [Muaaz23](https://app.hackthebox.com/profile/Muaaz23)
 ---
 *"Stay curious, stay hungry, stay secure."*
