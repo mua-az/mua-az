@@ -22,7 +22,7 @@ I'm Muaaz Ahmed, a curious mind exploring the world of cybersecurity and offensi
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muaazahmed23/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muaaz.ahmed23105)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mua-az.medium.com)
 
 ### 🏴‍☠️ HTB and THM Profiles
 - **TryHackMe:** [noobtries](https://tryhackme.com/p/noobtries)
